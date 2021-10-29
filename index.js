@@ -1,2 +1,2 @@
 console.log("Hello world!")
-const a = 5 + 2
+const a = 7
